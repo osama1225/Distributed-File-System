@@ -16,3 +16,5 @@ A simple Distributed File System that implemented in java using RMI with the fol
 5- Handling abort operations for the transaction.
 
 6- Handling multiple Access to the same file, such that operations from transaction with lower time stamp are done before operations from transactions with higher time_stamp.
+
+Hint: if you will use this code, Write your own Main Class.
