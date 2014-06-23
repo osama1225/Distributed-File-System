@@ -1,7 +1,8 @@
 Distributed-File-System
 =======================
 
-A simple Distributed File System that implemented in java using RMI with the following features:
+A simple Distributed File System that implemented in java using RMI with the following features:               
+
 1- Each file is replicated on several servers.
 
 2- there is a master server that contain metadata about replica-servers locations and mapping between files and their locations.
